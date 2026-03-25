@@ -26,4 +26,5 @@ export default function App() {
     </NavigationContainer>
   );
 }
-//deneme
+
+//en son guncellee
