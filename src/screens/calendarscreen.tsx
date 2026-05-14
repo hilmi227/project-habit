@@ -10,6 +10,6 @@ export default function CalendarScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: '#0D1117' },
+  container: { flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: '#6fa9ff' },
   text: { color: '#00FFFF', fontSize: 22, fontWeight: 'bold' },
 });
